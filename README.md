@@ -6,7 +6,7 @@ Excel sheets provided in this repository are forecasted IIP and PP values.
 First I tried using Simple linear regressions to see if that's sufficient, before moving on to a complex model. 
 For this I checked out some repositories to see how this works.
 Econometric models are statistical models used in econometrics. An econometric model specifies the statistical relationship that is believed to hold between the various economic quantities pertaining to a particular economic phenomenon. [Source:https://en.wikipedia.org/wiki/Econometric_model#:~:text=Econometric%20models%20are%20statistical%20models,to%20a%20particular%20economic%20phenomenon.]
-Nowcasting:Nowcasting in economics is the prediction of the present, the very near future, and the very recent past state of an economic indicator. The term is a contraction of "now" and "forecasting" and originates in meteorology. [https://en.wikipedia.org/wiki/Nowcasting_(meteorology)#:~:text=Nowcasting%20is%20weather%20forecasting%20on,other%20authors%20in%20the%20field.]  
+Nowcasting:Nowcasting in economics is the prediction of the present, the very near future, and the very recent past state of an economic indicator. The term is a contraction of "now" and "forecasting" and originates in meteorology. [https://en.wikipedia.org/wiki/Nowcasting]  
 
 With nowcasting models, economists at the MTI [Ministry of Trade & Industry Singapore] are able to bridge this gap and provide advance estimates of GDP about two weeks after the end of a quarter.
 
